@@ -13,8 +13,6 @@ class app extends React.Component{
         <Text  style = {styles.TextFeild}>Hello Shahbaz!</Text>
           <Text  style = {styles.TextFeild}>Hello Shahbaz!</Text>
             <Text  style = {styles.TextFeild}>Hello Shahbaz!</Text>
-             <Text  style = {styles.TextFeild}>Hello Shahbaz!</Text>
-            <Text  style = {styles.TextFeild}>Hello Shahbaz!</Text>
       </View>
 
     )
